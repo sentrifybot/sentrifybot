@@ -1,0 +1,1 @@
+Sentrify is a new and advanced Discord Bot built to protect your server from alt accounts and bots. With a powerful AutoMod, code verification and advanced moderation tools, your server will be safely protected from any raids!
